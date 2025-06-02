@@ -104,3 +104,5 @@ Here are a few directions in which this project can be further improved:
 7. **Cloud Deployment**  
    - Deploy the Streamlit app on platforms like Streamlit Cloud, AWS, or Azure with CI/CD integration.
 
+
+📝 Author Akhil Vijayan Email: akhilvijayan15003@gmail.com LinkedIn: https://www.linkedin.com/in/akhil-vijayan2003/
