@@ -18,8 +18,7 @@ This project applies machine learning techniques to detect potential fraud in Me
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/healthcare-fraud-detection.git
-cd healthcare-fraud-detection
+git clone https://github.com/AkhilVijayan0/Projects_Final.git
 ```
 
 2. Install dependencies:
@@ -33,8 +32,8 @@ jupyter notebook Healthcare_Fraud_Detection_Cleaned.ipynb
 ```
 
 4. Run the web app:
-```bash
-streamlit run streamlit_app.py
+```on 
+https://healthcare-fraud-detection.streamlit.app/
 ```
 
 ---
